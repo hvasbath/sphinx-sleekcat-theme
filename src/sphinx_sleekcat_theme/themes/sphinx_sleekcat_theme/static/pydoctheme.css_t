@@ -300,10 +300,6 @@ div.body img {
     box-shadow: none;
 }
 
-div.sphinxsidebar {
-    display: none;
-}
-
 dl.function, dl.class, dl.exception {
     border-bottom: 1px solid #f0f0f0;
 }
